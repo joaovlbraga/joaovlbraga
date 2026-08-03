@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Braga&fontSize=42&fontColor=EDEDED&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Python%20%7C%20Infraestrutura%20%26%20ITSM&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Braga&fontSize=42&fontColor=EDEDED&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20Python%20%7C%20Infraestrutura%20e%20ITSM&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="mailto:joaovitorlimabraga@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=560&lines=Python+%7C+Backend+%7C+APIs;Linux+%7C+VPS+%7C+Bancos+de+Dados;GLPI+%7C+ITSM+%7C+Automa%C3%A7%C3%A3o+de+chamados;Sempre+aprendendo+algo+novo" alt="typing"/>
@@ -75,8 +75,8 @@ Site pessoal com apresentação profissional, projetos e contato.
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaovlbraga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=3B82F6" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovlbraga&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=3B82F6" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=joaovlbraga&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=3B82F6" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=joaovlbraga&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=3B82F6" height="165"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=joaovlbraga&theme=tokyonight&no-frame=true&column=6&margin-w=8&margin-h=8" width="90%"/>
 
