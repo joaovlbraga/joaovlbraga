@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D12,50:15100A,100:0A0D12&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Braga&fontSize=42&fontColor=EDEDED&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20TypeScript%2C%20Node.js%20%26%20Python&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D12,50:15100A,100:0A0D12&height=180&section=header&text=Jo%C3%A3o%20Vitor%20Braga&fontSize=42&fontColor=EDEDED&fontAlignY=38&desc=Desenvolvedor%20Backend%20%7C%20TypeScript%2C%20Node.js%20e%20Python&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="mailto:joaovitorlimabraga@gmail.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1200&color=F0A83C&center=true&vCenter=true&width=560&lines=TypeScript+%7C+Node.js+%7C+JavaScript;Python+%7C+APIs+REST+%7C+PostgreSQL;Docker+%7C+AWS+%7C+Linux;Uso+agentes+de+IA+no+fluxo+de+trabalho;Sempre+aprendendo+algo+novo" alt="typing"/>
