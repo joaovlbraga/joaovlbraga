@@ -123,8 +123,8 @@ em casa.
 </tr>
 </table>
 
-<sub>🛠️ **DeskGio** — automação de software com sistema de licenciamento (DRM) e protocolos de
-segurança. Em desenvolvimento, repositório privado por enquanto.</sub>
+🛠️ **DeskGio** — automação de software com sistema de licenciamento (DRM) e protocolos de
+segurança. Em desenvolvimento, repositório privado por enquanto.
 
 <br/>
 
