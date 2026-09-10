@@ -135,7 +135,16 @@ segurança. Em desenvolvimento, repositório privado por enquanto.</sub>
 <img src="https://github-stats-extended.vercel.app/api?username=joaovlbraga&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=F0A83C&icon_color=3FB950&text_color=E6EDF3&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=joaovlbraga&theme=dark&hide_border=true&background=00000000&ring=F0A83C&fire=3FB950&currStreakLabel=F0A83C" height="165"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=joaovlbraga&theme=gruvbox&no-frame=true&column=6&margin-w=8&margin-h=8" width="90%"/>
+<!--
+Card de troféus removido temporariamente: a instância pública do
+github-profile-trophy.vercel.app está retornando erro 402 (limite de uso do
+Vercel estourado) — problema conhecido do projeto, não da sua URL. Para
+trazer de volta, faça deploy da sua própria instância (botão "Deploy with
+Vercel" no repositório ryo-ma/github-profile-trophy) e troque a URL abaixo
+pelo domínio da sua instância:
+
+<img src="https://SEU-DEPLOY.vercel.app/?username=joaovlbraga&theme=gruvbox&no-frame=true&column=6&margin-w=8&margin-h=8" width="90%"/>
+-->
 
 </div>
 
