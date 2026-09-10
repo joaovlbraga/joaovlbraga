@@ -83,6 +83,45 @@ Site pessoal com apresentação profissional, projetos e contato.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Hospital Quality Indicators Dashboard
+Dashboard interativo para gestão hospitalar, focado em métricas de demanda de suporte de TI.
+Extração de dados via SQL do banco do GLPI, scripts em Python para geração de relatórios e
+front-end em HTML.
+
+`SQL` `Python` `GLPI` `HTML`
+
+🔒 Repositório privado
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Agenda Cirúrgica
+Aplicação web para agendamento de cirurgias, com calendário interativo e controle de
+disponibilidade de salas e equipes.
+
+`Next.js` `React` `Tailwind CSS` `FullCalendar`
+
+🔒 Repositório privado
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2" valign="top">
+
+### 👶 Baby Routine Tracker (PWA)
+Progressive Web App para monitoramento de rotinas e padrões de sono infantil, instalável e
+hospedada na Netlify.
+
+`JavaScript` `PWA` `Netlify`
+
+<!-- TODO: substitua pelos links reais do repositório/deploy -->
+[Ver repositório →](https://github.com/joaovlbraga/baby-routine-tracker) · [Ver deploy →](https://baby-routine-tracker.netlify.app/)
+
+</td>
+</tr>
 </table>
 
 <sub>🛠️ **DeskGio** — automação de software com sistema de licenciamento (DRM) e protocolos de
@@ -94,7 +133,7 @@ segurança. Em desenvolvimento, repositório privado por enquanto.</sub>
 
 ## GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=joaovlbraga&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=F0A83C&icon_color=3FB950&text_color=E6EDF3" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=joaovlbraga&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=F0A83C&icon_color=3FB950&text_color=E6EDF3&count_private=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=joaovlbraga&theme=dark&hide_border=true&background=00000000&ring=F0A83C&fire=3FB950&currStreakLabel=F0A83C" height="165"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=joaovlbraga&theme=gruvbox&no-frame=true&column=6&margin-w=8&margin-h=8" width="90%"/>
