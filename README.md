@@ -112,13 +112,12 @@ disponibilidade de salas e equipes.
 <td width="100%" colspan="2" valign="top">
 
 ### 👶 Baby Routine Tracker (PWA)
-Progressive Web App para monitoramento de rotinas e padrões de sono infantil, instalável e
-hospedada na Netlify.
+Um projeto pessoal nascido da paternidade: um Progressive Web App para acompanhar de perto a
+rotina e os padrões de sono da minha filha. Registra horários, gera visão dos ciclos ao longo
+dos dias e funciona instalado no celular, mesmo offline — tecnologia a serviço do dia a dia
+em casa.
 
 `JavaScript` `PWA` `Netlify`
-
-<!-- TODO: substitua pelos links reais do repositório/deploy -->
-[Ver repositório →](https://github.com/joaovlbraga/baby-routine-tracker) · [Ver deploy →](https://baby-routine-tracker.netlify.app/)
 
 </td>
 </tr>
